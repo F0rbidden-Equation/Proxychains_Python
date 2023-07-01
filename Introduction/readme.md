@@ -42,4 +42,14 @@ proxy permettent de masquer l'adresse IP réelle d'un client, offrant ainsi un c
 - Répartition de charge : Les serveurs proxy inverses sont utilisés pour répartir la charge entre plusieurs serveurs en aval. Cela permet d'améliorer les performances, la disponibilité et la redondance des applications web.
 
 En conclusion, les serveurs proxy sont des composants essentiels dans le domaine de la sécurité des réseaux informatiques. Ils offrent des fonctionnalités telles que l'anonymat, le contrôle d'accès, la mise en cache et la sécurité renforcée. Dans les chapitres suivants, nous explorerons plus en détail les différents types de serveurs proxy, notamment le proxy HTTP, le proxy SOCKS, le proxy transparent et le proxy inverse, ainsi que leur déploiement à l'aide de proxychains avec du code Python.
-- Anonymat en ligne : Les serveurs 
+- Anonymat en ligne : Les serveurs proxy permettent de masquer l'adresse IP réelle d'un client, offrant ainsi un certain degré d'anonymat en ligne. Cela peut être utile pour protéger la vie privée des utilisateurs et éviter le suivi de leurs activités en ligne.
+
+- Contrôle et surveillance du trafic : Les serveurs proxy peuvent être utilisés pour surveiller et analyser le trafic réseau. Cela permet de détecter les activités suspectes, d'appliquer des politiques de sécurité et de générer des journaux d'activité pour l'audit.
+
+- Optimisation des performances : Grâce à la mise en cache, les serveurs proxy peuvent améliorer les performances en réduisant le temps de latence et en économisant la bande passante. Les clients peuvent ainsi accéder plus rapidement aux ressources fréquemment demandées.
+
+- Contournement de la censure géographique : Les serveurs proxy peuvent permettre aux utilisateurs de contourner les restrictions géographiques imposées sur certains contenus en se connectant via des serveurs situés dans des régions où ces restrictions ne s'appliquent pas.
+
+- Répartition de charge : Les serveurs proxy inverses sont utilisés pour répartir la charge entre plusieurs serveurs en aval. Cela permet d'améliorer les performances, la disponibilité et la redondance des applications web.
+
+En conclusion, les serveurs proxy sont des composants essentiels dans le domaine de la sécurité des réseaux informatiques. Ils offrent des fonctionnalités telles que l'anonymat, le contrôle d'accès, la mise en cache et la sécurité renforcée. Dans les chapitres suivants, nous explorerons plus en détail les différents types de serveurs proxy, notamment le proxy HTTP, le proxy SOCKS, le proxy transparent et le proxy inverse, ainsi que leur déploiement à l'aide de proxychains avec du code Python.
